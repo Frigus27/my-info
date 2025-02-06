@@ -11,7 +11,7 @@ redirect_from:
 
 I am a 2th year undergraduate at University of Science and Technology of China ( [USTC ](https://en.ustc.edu.cn/)) and a member of Loo-Keng Hua Class (honor program in mathematics). Here is my [CV](luopr.frigussum.com/cv/)
 
-**Email**  [luopr_math@mail.ustc.edu.cn](mailto://luopr_math@mail.ustc.edu.cn) This is my usual email at USTC.
+**Email**  luopr_math [AT] mail.ustc.edu.cn. This is my usual email at USTC.
 
 Currently I'm interested in ...
 
